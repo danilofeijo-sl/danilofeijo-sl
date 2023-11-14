@@ -1,7 +1,7 @@
-- 👋 Danilo Feijó por aqui;
-- 👀 Estou einteressado em Testes Automatizados;
+- 👋 Danilo Feijó;
+- 👀 Interessado em Testes Automatizados;
 - 🌱 Aprendendo práticas de codificação;
-- 💞️ Posso colaborar no tema Automação de testes (principalmente E2E e API) e similares;
+- 💞️ Posso colaborar no tema Automação de testes (E2E e API) e correlatos;
 - 📫 Fale comigo no Chat ou e-mail, pesquisando por "Danilo Feijó".
 
 <!---
